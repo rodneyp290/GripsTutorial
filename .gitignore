@@ -3,3 +3,5 @@
 *.ps
 *.aux
 *.dvi
+*.bbl
+*.blg
